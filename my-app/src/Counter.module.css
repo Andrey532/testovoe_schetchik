@@ -1,0 +1,53 @@
+.main {
+  margin: 0 auto;
+  height: 220px;
+  width: 240px;
+  border: solid;
+  border-radius: 5px;
+  background-color: rgba(57, 62, 63, 0.716);
+}
+
+.num {
+  margin-top: 15px;
+  margin-left: 18px;
+  font-size: 50px;
+  font-weight: 500;
+  height: 80px;
+  width: 200px;
+  border: solid;
+  border-radius: 5px;
+  background-color: rgba(97, 106, 152, 0.805);
+}
+
+.btns {
+  height: 80px;
+  width: 200px;
+  border: solid;
+  border-radius: 5px;
+  margin-top: 20px;
+  margin-left: 18px;
+  background-color: rgba(97, 106, 152, 0.805);
+}
+
+.btnInc {
+  margin-top: 18px;
+  margin-right: 20px;
+  font-size: 20px;
+  font-weight: 700;
+  background-color: rgba(137, 242, 137, 0.793);
+  border-radius: 5px;
+  padding: 7px;
+}
+
+.btnReset {
+  margin-left: 20px;
+  font-size: 20px;
+  font-weight: 700;
+  background-color: rgba(239, 119, 119, 0.734);
+  border-radius: 5px;
+  padding: 7px;
+}
+
+.maxValCol {
+  color: rgb(239, 119, 119);
+}
