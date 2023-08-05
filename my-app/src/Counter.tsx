@@ -22,7 +22,7 @@ export const Counter = () => {
           inc
         </button>
         <button className={styles.btnReset} onClick={onClickReset}>
-          reset
+          Reset
         </button>
       </div>
     </div>
